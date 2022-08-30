@@ -84,8 +84,8 @@ Pra isso vamos usar o `testing library react` que segundo a documentação é:
  
 ## O Projeto e os casos de testes realizados:
 
- ![image](https://media.giphy.com/media/hyPmJQnEOJgs8ziVW0/giphy.gif)
- ![image](https://media.giphy.com/media/20nEjUfP5zfJZ8xLz7/giphy.gif)
+ ![image](https://media.giphy.com/media/FEmdjuDY4R6WSrK2Bm/giphy.gif)
+ ![image](https://media.giphy.com/media/LYfpVbx2DqCC0SReQz/giphy.gif)
 
 O mais legal é que os testes estão garantindo os cenários abaixo:
 
